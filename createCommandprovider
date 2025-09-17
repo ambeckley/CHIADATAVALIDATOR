@@ -1,0 +1,16 @@
+CREATE TABLE "provider_437" (
+	nationalprovideridcleaned VARCHAR,
+	nationalprovider2idcleaned VARCHAR,
+	releaseid DECIMAL, 
+	linkingproviderdelegate BOOLEAN,
+	cmsprovidertype VARCHAR,
+	submissionyearmonth DECIMAL, 
+	submissioncontrolid DECIMAL, 
+	providerid DECIMAL, 
+	orgid DECIMAL, 
+	linkingproviderid DECIMAL, 
+	dobdateyear VARCHAR,
+	zipcode_5_lds VARCHAR,
+	taxonomycleaned VARCHAR, 
+	provideridcodecleaned VARCHAR
+);

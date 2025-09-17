@@ -1,0 +1,9 @@
+CREATE TABLE "one_zip_437" (
+	orgid DECIMAL, 
+	chiacarrierspecificuniquememberid DECIMAL, 
+	memberzipcode_5_lds DECIMAL, 
+	memberstateorprovincelds VARCHAR, 
+	calendaryear DECIMAL, 
+	submissionyear DECIMAL, 
+	submissionmonth VARCHAR
+);
