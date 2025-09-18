@@ -1,6 +1,6 @@
 # CHIADATAVALIDATOR
 
-**CHIADATAVALIDATOR** is a Python-based tool for validating raw CHIA healthcare data files and converting them into cleaned CSVs for database ingestion (e.g., PostgreSQL). It supports multiple domains such as Medical Claims, Pharmacy Claims, Member Eligibility, Products, Providers, and ZIP data.
+**CHIADATAVALIDATOR** is a very basic Python-based tool for validating raw CHIA healthcare data files and converting them into cleaned CSVs for database ingestion (e.g., PostgreSQL). It supports multiple domains such as Medical Claims, Pharmacy Claims, Member Eligibility, Products, Providers, and ZIP data.
 
 ---
 
