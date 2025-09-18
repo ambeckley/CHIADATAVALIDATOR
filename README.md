@@ -35,6 +35,8 @@ pip install pandas numpy
 
 ---
 
+From the CSV files created you can import them into any other tool, such as SQL.
+
 ## Splitting CHIA Data Files on Linux
 
 To split a large CHIA data file into smaller chunks (100,000 lines each), use the following command:
@@ -46,6 +48,8 @@ split -l 100000 -a 10 -d OrganizationNameMedicalClaim_Final.txt MedicalClaimPart
 * `-l 100000`: splits every 100,000 lines
 * `-a 10`: suffix length (creates files like `MedicalClaimPart1_0000000001`)
 * `-d`: use numeric suffixes
+
+The splitting is done due to ram limitations, the data is processed in chunks.
 
 ---
 
