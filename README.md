@@ -61,7 +61,8 @@ The SQL create commands for all of them are included.
 
 ## License
 
-This project is licensed under the [Apache 2.0 License](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
+
 
 ---
 
